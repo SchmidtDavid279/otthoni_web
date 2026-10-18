@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(253, 253, 253)
+}
+
+h2 {
+  color: rgb(29, 81, 194);
+  font-weight: bold;
+}
+
+h1 {
+    color: rgb(180, 123, 0);
+}
+
+li {
+    color: rgb(0, 0, 0);
+}
